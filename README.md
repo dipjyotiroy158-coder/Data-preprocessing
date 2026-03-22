@@ -35,8 +35,6 @@ Future Work
 
 Dipjyoti Roy
 
----
-
-## 📌 Note
+Note
 
 This project is created for learning purposes based on concepts from a Machine Learning course.
